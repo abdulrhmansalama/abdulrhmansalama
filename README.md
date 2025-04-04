@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Full-Stack Developer | Passionate about Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://github.com/abdulrhmansalama/abdulrhmansalama/images/me.jpg" width="150" height="150" alt="Abdulrhman Salama" style="border-radius: 50%; border: 3px solid #0077B5;" />
+  <img src="https://github.com/abdulrhmansalama/abdulrhmansalama/blob/main/images/me.jpg" width="150" height="150" alt="Abdulrhman Salama" style="border-radius: 50%; border: 3px solid #0077B5;" />
 </p>
 
 ---
