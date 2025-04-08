@@ -61,8 +61,8 @@ I'm an AI Engineer from Egypt, passionate about solving real-world problems usin
   </a>
   <a href="mailto:abdulrhmansalama.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 5px;" />
-  </a>
-  <a href="https://abdulrhmansalama.github.io" target="_blank">
+  </a>     
+  <a href="https://abdulrhmansalama.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="margin: 5px;" />
   </a>
   <a href="https://github.com/abdulrhmansalama" target="_blank">
